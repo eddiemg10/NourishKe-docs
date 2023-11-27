@@ -1,0 +1,9 @@
+{
+    "label": "Health Metrics",
+    "position": 3,
+    "link": {
+      "type": "generated-index",
+      "description": "Health Metrics services provided by the NourishKe API."
+    }
+  }
+  
